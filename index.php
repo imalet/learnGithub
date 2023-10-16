@@ -7,7 +7,6 @@ function salutation() {
 
 // salutation();
 
-
 $phrase = "Sidi va a l'ecole";
 $ok = str_replace('Sidi', 'popo', $phrase);
 echo $ok;
